@@ -11,6 +11,11 @@ __pycache__/
 # Claude Code local config
 .claude/
 
+# PyInstaller
+build/
+dist/
+*.spec
+
 # OS
 .DS_Store
 Thumbs.db
